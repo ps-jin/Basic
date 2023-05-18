@@ -1,1 +1,1 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238E63C8&title_bg=%23C798FF&icon=baidu.svg&icon_color=%23714BA6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div style="text-align: center;"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fps-jin&count_bg=%23FFC4D0&title_bg=%23FF90A9&icon=smugmug.svg&icon_color=%23FFFFFF&title=hello&edge_flat=false"/></a></div>
