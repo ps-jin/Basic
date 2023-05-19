@@ -54,13 +54,14 @@
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gitter-ED1965?style=flat-square&logo=Gitter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-      <br/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/PhpStorm-6400AA?style=flat-square&logo=PhpStorm&logoColor=white"/>
       <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat-square&logo=DBeaver&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQLWorkbench-00A1D6?style=flat-square&logo=MySQLWorkbench&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HeidiSQL-76B900?style=flat-square&logo=HeidiSQL&logoColor=white"/>
     </div>
   </div>
   
