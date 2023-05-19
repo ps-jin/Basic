@@ -6,9 +6,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ps-jin)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+![2728](https://github.com/ps-jin/ps-jin/assets/74705689/281019d2-8b6b-475c-b7e4-496ffdd30084)
+![sparkles](https://github.com/ps-jin/ps-jin/assets/74705689/c2b2037d-5184-45f1-8fa1-5710079aeca0)
+![2728](https://github.com/ps-jin/ps-jin/assets/74705689/ac1d8811-6b9a-48e4-9023-2785675c1eb4)
+![sparkles_2728](https://github.com/ps-jin/ps-jin/assets/74705689/2fec52e8-b569-4a22-a6e4-04fb07902d2c)
 
 <div>
-  <p>Back-end Stack</p>
+  <p>✨Back-end Stack✨</p>
   <div>
     
   </div>
