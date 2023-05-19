@@ -1,4 +1,4 @@
-<div style="text-align: center;"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fps-jin&count_bg=%23FFC4D0&title_bg=%23FF90A9&icon=smugmug.svg&icon_color=%23FFFFFF&title=hello&edge_flat=false"/></a></div>
+<div align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fps-jin&count_bg=%23FFC4D0&title_bg=%23FF90A9&icon=smugmug.svg&icon_color=%23FFFFFF&title=hello&edge_flat=false"/></a></div>
 
 <hr>
 
