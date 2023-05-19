@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-      <br>
+      <br/>
       <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -32,8 +32,9 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSON-F7DF1E?style=flat-square&logo=JSON&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-      <br>
+      <br/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white"/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
@@ -52,11 +53,14 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
       <img src="https://img.shields.io/badge/Gitter-ED1965?style=flat-square&logo=Gitter&logoColor=white"/>
-      <br>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PhpStorm-6400AA?style=flat-square&logo=PhpStorm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DBeaver-A5915F?style=flat-square&logo=DBeaver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQLWorkbench-00A1D6?style=flat-square&logo=MySQLWorkbench&logoColor=white"/>
     </div>
   </div>
   
