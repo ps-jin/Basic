@@ -21,6 +21,7 @@
       <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
       <img src="https://img.shields.io/badge/EclipseMosquitto-3C5280?style=flat-square&logo=EclipseMosquitto&logoColor=white"/>
     </div>
   </div>
