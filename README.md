@@ -17,8 +17,8 @@
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-      <br/>
       <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white"/>
+      <br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
       <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
